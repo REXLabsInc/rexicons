@@ -3,16 +3,16 @@ module.exports = function(grunt) {
     grunt.initConfig({
         shell: {
             exportIcons: {
-                command: 'sketchtool export slices icons.sketch --output=build/svg'
+                command: 'sketchtool export slices rexicons.sketch --output=build/svg'
             }
         },
         webfont: {
             icons: {
                 src: 'build/svg/*.svg',
-                dest: 'build/fonts/',
-                destCss: 'build/css/',
+                dest: 'build/',
+                destCss: 'build/',
                 options: {
-                    font: 'icons',
+                    font: 'rexicons',
                     fontHeight: 96,
                     normalize: false,
                     ascent: 84,

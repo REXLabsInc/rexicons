@@ -2,18 +2,18 @@
 
 
 @font-face {
-	font-family:"icons";
-	src:url("../fonts/icons.eot?a50f73d79edb872e7c6ca6d4c4a2b8a9");
-	src:url("../fonts/icons.eot?#iefix") format("embedded-opentype"),
-		url("../fonts/icons.woff?a50f73d79edb872e7c6ca6d4c4a2b8a9") format("woff"),
-		url("../fonts/icons.ttf?a50f73d79edb872e7c6ca6d4c4a2b8a9") format("truetype");
+	font-family:"rexicons";
+	src:url("rexicons.eot?5460c6ad41720b8a5137aef35ec27add");
+	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
+		url("rexicons.woff?5460c6ad41720b8a5137aef35ec27add") format("woff"),
+		url("rexicons.ttf?5460c6ad41720b8a5137aef35ec27add") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
 
 .icon {
 	
-		font-family:"icons";
+		font-family:"rexicons";
 	
 	display:inline-block;
 	vertical-align:middle;
