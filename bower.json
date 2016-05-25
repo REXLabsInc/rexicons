@@ -1,0 +1,24 @@
+{
+  "name": "rexicons",
+  "description": "The icons we use for REX",
+  "main": "build/css/icons.css",
+  "authors": [
+    "Steven Lu <tacticalazn@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "rex",
+    "icons"
+  ],
+  "homepage": "https://github.com/REXLabsInc/rex-fonts",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js",
+    "icons.sketch"
+  ]
+}
