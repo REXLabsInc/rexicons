@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="560px" height="563px" viewBox="0 0 560 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>chat-bubble</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chat-bubble" fill="#000000">
+            <g id="new-comment" transform="translate(80.000000, 82.000000)">
+                <path d="M357.777778,0 L39.7481481,0 C17.7925926,0 0,17.8074074 0,39.7481481 L0,278.266667 C0,300.222222 17.8074074,318.014815 39.7481481,318.014815 L139.125926,318.014815 L139.125926,387.57037 C139.125926,396.414815 149.837037,400.844444 156.103704,394.592593 L232.666667,318.02963 L357.762963,318.02963 C379.718519,318.02963 397.511111,300.222222 397.511111,278.281481 L397.511111,39.762963 C397.511111,17.8074074 379.703704,0.0148148148 357.762963,0.0148148148 L357.777778,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
