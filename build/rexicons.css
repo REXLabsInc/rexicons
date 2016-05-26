@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?38bcade19fc46007c092630774147ec3");
+	src:url("rexicons.eot?6c4d83d052ff9c06cca79ecdb37c301b");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?38bcade19fc46007c092630774147ec3") format("woff"),
-		url("rexicons.ttf?38bcade19fc46007c092630774147ec3") format("truetype");
+		url("rexicons.woff?6c4d83d052ff9c06cca79ecdb37c301b") format("woff"),
+		url("rexicons.ttf?6c4d83d052ff9c06cca79ecdb37c301b") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -87,36 +87,41 @@
 }
 
 
-.rexicon-movie:before {
+.rexicon-more:before {
 	content:"\f10c";
 }
 
 
-.rexicon-music:before {
+.rexicon-movie:before {
 	content:"\f10d";
 }
 
 
-.rexicon-places:before {
+.rexicon-music:before {
 	content:"\f10e";
 }
 
 
-.rexicon-podcasts:before {
+.rexicon-places:before {
 	content:"\f10f";
 }
 
 
-.rexicon-television:before {
+.rexicon-podcasts:before {
 	content:"\f110";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-television:before {
 	content:"\f111";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-tvshow:before {
 	content:"\f112";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f113";
 }
