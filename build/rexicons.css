@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?c611e54346b45267e6b09a34c59d0815");
+	src:url("rexicons.eot?38bcade19fc46007c092630774147ec3");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?c611e54346b45267e6b09a34c59d0815") format("woff"),
-		url("rexicons.ttf?c611e54346b45267e6b09a34c59d0815") format("truetype");
+		url("rexicons.woff?38bcade19fc46007c092630774147ec3") format("woff"),
+		url("rexicons.ttf?38bcade19fc46007c092630774147ec3") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -52,51 +52,71 @@
 }
 
 
-.rexicon-books:before {
+.rexicon-bookmark-outline:before {
 	content:"\f105";
 }
 
 
-.rexicon-chevron-right:before {
+.rexicon-bookmark:before {
 	content:"\f106";
 }
 
 
-.rexicon-fooddrinks:before {
+.rexicon-books:before {
 	content:"\f107";
 }
 
 
-.rexicon-movie:before {
+.rexicon-chevron-right:before {
 	content:"\f108";
 }
 
 
-.rexicon-music:before {
+.rexicon-fooddrinks:before {
 	content:"\f109";
 }
 
 
-.rexicon-places:before {
+.rexicon-heart-outline:before {
 	content:"\f10a";
 }
 
 
-.rexicon-podcasts:before {
+.rexicon-heart:before {
 	content:"\f10b";
 }
 
 
-.rexicon-television:before {
+.rexicon-movie:before {
 	content:"\f10c";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-music:before {
 	content:"\f10d";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-places:before {
 	content:"\f10e";
+}
+
+
+.rexicon-podcasts:before {
+	content:"\f10f";
+}
+
+
+.rexicon-television:before {
+	content:"\f110";
+}
+
+
+.rexicon-tvshow:before {
+	content:"\f111";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f112";
 }
