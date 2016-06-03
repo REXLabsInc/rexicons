@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?672cd82ff357f4dd7a2a16ebc13ac154");
+	src:url("rexicons.eot?cc2a043a2bb80f06ccac935785b0b252");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?672cd82ff357f4dd7a2a16ebc13ac154") format("woff"),
-		url("rexicons.ttf?672cd82ff357f4dd7a2a16ebc13ac154") format("truetype");
+		url("rexicons.woff?cc2a043a2bb80f06ccac935785b0b252") format("woff"),
+		url("rexicons.ttf?cc2a043a2bb80f06ccac935785b0b252") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -52,96 +52,101 @@
 }
 
 
-.rexicon-bookmark-outline:before {
+.rexicon-bookmark-outline-thick:before {
 	content:"\f105";
 }
 
 
-.rexicon-bookmark:before {
+.rexicon-bookmark-outline:before {
 	content:"\f106";
 }
 
 
-.rexicon-books:before {
+.rexicon-bookmark:before {
 	content:"\f107";
 }
 
 
-.rexicon-chat-bubble:before {
+.rexicon-books:before {
 	content:"\f108";
 }
 
 
-.rexicon-chevron-right:before {
+.rexicon-chat-bubble:before {
 	content:"\f109";
 }
 
 
-.rexicon-fooddrinks:before {
+.rexicon-chevron-right:before {
 	content:"\f10a";
 }
 
 
-.rexicon-heart-outline:before {
+.rexicon-fooddrinks:before {
 	content:"\f10b";
 }
 
 
-.rexicon-heart:before {
+.rexicon-heart-outline:before {
 	content:"\f10c";
 }
 
 
-.rexicon-home-outline:before {
+.rexicon-heart:before {
 	content:"\f10d";
 }
 
 
-.rexicon-home:before {
+.rexicon-home-outline:before {
 	content:"\f10e";
 }
 
 
-.rexicon-more:before {
+.rexicon-home:before {
 	content:"\f10f";
 }
 
 
-.rexicon-movie:before {
+.rexicon-more:before {
 	content:"\f110";
 }
 
 
-.rexicon-music:before {
+.rexicon-movie:before {
 	content:"\f111";
 }
 
 
-.rexicon-places:before {
+.rexicon-music:before {
 	content:"\f112";
 }
 
 
-.rexicon-podcasts:before {
+.rexicon-places:before {
 	content:"\f113";
 }
 
 
-.rexicon-square-loop:before {
+.rexicon-podcasts:before {
 	content:"\f114";
 }
 
 
-.rexicon-television:before {
+.rexicon-square-loop:before {
 	content:"\f115";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-television:before {
 	content:"\f116";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-tvshow:before {
 	content:"\f117";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f118";
 }
