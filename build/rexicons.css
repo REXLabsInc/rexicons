@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?7383e8d0fc7be7f84ae3035bbf21f676");
+	src:url("rexicons.eot?85058864c78b89c7d06b71b0d038e7bc");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?7383e8d0fc7be7f84ae3035bbf21f676") format("woff"),
-		url("rexicons.ttf?7383e8d0fc7be7f84ae3035bbf21f676") format("truetype");
+		url("rexicons.woff?85058864c78b89c7d06b71b0d038e7bc") format("woff"),
+		url("rexicons.ttf?85058864c78b89c7d06b71b0d038e7bc") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -147,11 +147,16 @@
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-triangle-right:before {
 	content:"\f118";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-tvshow:before {
 	content:"\f119";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f11a";
 }
