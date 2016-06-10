@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="560px" height="563px" viewBox="0 0 560 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>checkmark</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M228.118519,424.807407 C222.133333,430.792593 212.488889,430.792593 206.503704,424.807407 L84.4888889,302.733333 C78.5037037,296.748148 78.5037037,287.103704 84.4888889,281.118519 L106.02963,259.577778 C112.014815,253.592593 121.659259,253.592593 127.644444,259.577778 L217.303704,349.296296 L429.125926,137.488889 C435.111111,131.503704 444.755556,131.503704 450.740741,137.488889 L472.281481,159.02963 C478.266667,165.014815 478.266667,174.659259 472.281481,180.644444 L228.118519,424.807407 L228.118519,424.807407 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="checkmark">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Clip-2" fill="#000000" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

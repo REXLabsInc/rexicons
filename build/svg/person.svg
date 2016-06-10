@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="560px" height="563px" viewBox="0 0 560 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>person</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="person" fill="#1A1918">
+            <g id="icon_milestone_avatar" transform="translate(105.000000, 100.000000)">
+                <path d="M262.51,88.25 C262.51,136.575 223.335,175.75 175.01,175.75 C126.685,175.75 87.51,136.575 87.51,88.25 C87.51,39.925 126.685,0.75 175.01,0.75 C223.335,0.75 262.51,39.925 262.51,88.25" id="Fill-1"></path>
+                <path d="M331.985,363.25 C343.91,363.25 352.71,352.225 349.26,341.275 C328.26,274.7 258.285,225.75 175.01,225.75 C91.735,225.75 21.76,274.7 0.76,341.275 C-2.69,352.225 6.11,363.25 18.035,363.25 L331.985,363.25 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
