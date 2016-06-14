@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?ee81fba047b6122aaa337adf712e810c");
+	src:url("rexicons.eot?81495d51950679491daf001888b2c809");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?ee81fba047b6122aaa337adf712e810c") format("woff"),
-		url("rexicons.ttf?ee81fba047b6122aaa337adf712e810c") format("truetype");
+		url("rexicons.woff?81495d51950679491daf001888b2c809") format("woff"),
+		url("rexicons.ttf?81495d51950679491daf001888b2c809") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -87,91 +87,96 @@
 }
 
 
-.rexicon-explore:before {
+.rexicon-cross:before {
 	content:"\f10c";
 }
 
 
-.rexicon-fooddrinks:before {
+.rexicon-explore:before {
 	content:"\f10d";
 }
 
 
-.rexicon-heart-outline:before {
+.rexicon-fooddrinks:before {
 	content:"\f10e";
 }
 
 
-.rexicon-heart:before {
+.rexicon-heart-outline:before {
 	content:"\f10f";
 }
 
 
-.rexicon-home-outline:before {
+.rexicon-heart:before {
 	content:"\f110";
 }
 
 
-.rexicon-home:before {
+.rexicon-home-outline:before {
 	content:"\f111";
 }
 
 
-.rexicon-more:before {
+.rexicon-home:before {
 	content:"\f112";
 }
 
 
-.rexicon-movie:before {
+.rexicon-more:before {
 	content:"\f113";
 }
 
 
-.rexicon-music:before {
+.rexicon-movie:before {
 	content:"\f114";
 }
 
 
-.rexicon-person:before {
+.rexicon-music:before {
 	content:"\f115";
 }
 
 
-.rexicon-places:before {
+.rexicon-person:before {
 	content:"\f116";
 }
 
 
-.rexicon-plus:before {
+.rexicon-places:before {
 	content:"\f117";
 }
 
 
-.rexicon-podcasts:before {
+.rexicon-plus:before {
 	content:"\f118";
 }
 
 
-.rexicon-square-loop:before {
+.rexicon-podcasts:before {
 	content:"\f119";
 }
 
 
-.rexicon-television:before {
+.rexicon-square-loop:before {
 	content:"\f11a";
 }
 
 
-.rexicon-triangle-right:before {
+.rexicon-television:before {
 	content:"\f11b";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-triangle-right:before {
 	content:"\f11c";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-tvshow:before {
 	content:"\f11d";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f11e";
 }
