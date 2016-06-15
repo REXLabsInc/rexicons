@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?81495d51950679491daf001888b2c809");
+	src:url("rexicons.eot?d13d3578b36cfd94d2192ff83d07d341");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?81495d51950679491daf001888b2c809") format("woff"),
-		url("rexicons.ttf?81495d51950679491daf001888b2c809") format("truetype");
+		url("rexicons.woff?d13d3578b36cfd94d2192ff83d07d341") format("woff"),
+		url("rexicons.ttf?d13d3578b36cfd94d2192ff83d07d341") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -137,46 +137,56 @@
 }
 
 
-.rexicon-person:before {
+.rexicon-pause:before {
 	content:"\f116";
 }
 
 
-.rexicon-places:before {
+.rexicon-person:before {
 	content:"\f117";
 }
 
 
-.rexicon-plus:before {
+.rexicon-places:before {
 	content:"\f118";
 }
 
 
-.rexicon-podcasts:before {
+.rexicon-play:before {
 	content:"\f119";
 }
 
 
-.rexicon-square-loop:before {
+.rexicon-plus:before {
 	content:"\f11a";
 }
 
 
-.rexicon-television:before {
+.rexicon-podcasts:before {
 	content:"\f11b";
 }
 
 
-.rexicon-triangle-right:before {
+.rexicon-square-loop:before {
 	content:"\f11c";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-television:before {
 	content:"\f11d";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-triangle-right:before {
 	content:"\f11e";
+}
+
+
+.rexicon-tvshow:before {
+	content:"\f11f";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f120";
 }
