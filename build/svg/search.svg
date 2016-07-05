@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="560px" height="563px" viewBox="0 0 560 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M256.0016,90 C158.8016,90 80.0016,168.8 80.0016,266 C80.0016,363.2 158.8016,442 256.0016,442 C353.2016,442 432.0016,363.2 432.0016,266 C432.0016,168.8 353.2016,90 256.0016,90 L256.0016,90 Z M256.0016,122 C335.4096,122 400.0016,186.592 400.0016,266 C400.0016,345.408 335.4096,410 256.0016,410 C176.5936,410 112.0016,345.408 112.0016,266 C112.0016,186.592 176.5936,122 256.0016,122 L256.0016,122 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Clip-2" fill="#000000" xlink:href="#path-1"></use>
+            <path d="M436.688,469.3152 L363.312,395.9392 C357.072,389.6992 357.072,379.5552 363.312,373.3152 C369.568,367.0752 379.696,367.0752 385.936,373.3152 L459.312,446.6912 C465.568,452.9312 465.568,463.0752 459.312,469.3152 C453.072,475.5552 442.928,475.5552 436.688,469.3152 L436.688,469.3152 Z" id="Clip-5" fill="#000000"></path>
+        </g>
+    </g>
+</svg>
