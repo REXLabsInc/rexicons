@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?7777a4c0f5f7a77789befa8a748b140d");
+	src:url("rexicons.eot?8cd7e090f5241797fb1e769a00934b70");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?7777a4c0f5f7a77789befa8a748b140d") format("woff"),
-		url("rexicons.ttf?7777a4c0f5f7a77789befa8a748b140d") format("truetype");
+		url("rexicons.woff?8cd7e090f5241797fb1e769a00934b70") format("woff"),
+		url("rexicons.ttf?8cd7e090f5241797fb1e769a00934b70") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -102,106 +102,116 @@
 }
 
 
-.rexicon-fooddrinks:before {
+.rexicon-facebook:before {
 	content:"\f10f";
 }
 
 
-.rexicon-heart-outline:before {
+.rexicon-fooddrinks:before {
 	content:"\f110";
 }
 
 
-.rexicon-heart:before {
+.rexicon-heart-outline:before {
 	content:"\f111";
 }
 
 
-.rexicon-home-outline:before {
+.rexicon-heart:before {
 	content:"\f112";
 }
 
 
-.rexicon-home:before {
+.rexicon-home-outline:before {
 	content:"\f113";
 }
 
 
-.rexicon-more:before {
+.rexicon-home:before {
 	content:"\f114";
 }
 
 
-.rexicon-movie:before {
+.rexicon-more:before {
 	content:"\f115";
 }
 
 
-.rexicon-music:before {
+.rexicon-movie:before {
 	content:"\f116";
 }
 
 
-.rexicon-pause:before {
+.rexicon-music:before {
 	content:"\f117";
 }
 
 
-.rexicon-person:before {
+.rexicon-pause:before {
 	content:"\f118";
 }
 
 
-.rexicon-places:before {
+.rexicon-person:before {
 	content:"\f119";
 }
 
 
-.rexicon-play-filled:before {
+.rexicon-places:before {
 	content:"\f11a";
 }
 
 
-.rexicon-play:before {
+.rexicon-play-filled:before {
 	content:"\f11b";
 }
 
 
-.rexicon-plus:before {
+.rexicon-play:before {
 	content:"\f11c";
 }
 
 
-.rexicon-podcasts:before {
+.rexicon-plus:before {
 	content:"\f11d";
 }
 
 
-.rexicon-search:before {
+.rexicon-podcasts:before {
 	content:"\f11e";
 }
 
 
-.rexicon-square-loop:before {
+.rexicon-search:before {
 	content:"\f11f";
 }
 
 
-.rexicon-television:before {
+.rexicon-square-loop:before {
 	content:"\f120";
 }
 
 
-.rexicon-triangle-right:before {
+.rexicon-television:before {
 	content:"\f121";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-triangle-right:before {
 	content:"\f122";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-tvshow:before {
 	content:"\f123";
+}
+
+
+.rexicon-twitter:before {
+	content:"\f124";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f125";
 }
