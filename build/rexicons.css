@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?264c34cadf3d1fe54d29ec26109fbacb");
+	src:url("rexicons.eot?631fc79f988e418de5ef54e784928dd7");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?264c34cadf3d1fe54d29ec26109fbacb") format("woff"),
-		url("rexicons.ttf?264c34cadf3d1fe54d29ec26109fbacb") format("truetype");
+		url("rexicons.woff?631fc79f988e418de5ef54e784928dd7") format("woff"),
+		url("rexicons.ttf?631fc79f988e418de5ef54e784928dd7") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -222,6 +222,11 @@
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-upload:before {
 	content:"\f127";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f128";
 }
