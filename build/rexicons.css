@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?8681214ad7a8d844817f729080b2e09e");
+	src:url("rexicons.eot?aa3da8106c39c674a61883625f84ea23");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?8681214ad7a8d844817f729080b2e09e") format("woff"),
-		url("rexicons.ttf?8681214ad7a8d844817f729080b2e09e") format("truetype");
+		url("rexicons.woff?aa3da8106c39c674a61883625f84ea23") format("woff"),
+		url("rexicons.ttf?aa3da8106c39c674a61883625f84ea23") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -227,26 +227,31 @@
 }
 
 
-.rexicon-triangle-right:before {
+.rexicon-triangle-exclamation:before {
 	content:"\f128";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-triangle-right:before {
 	content:"\f129";
 }
 
 
-.rexicon-twitter:before {
+.rexicon-tvshow:before {
 	content:"\f12a";
 }
 
 
-.rexicon-upload:before {
+.rexicon-twitter:before {
 	content:"\f12b";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-upload:before {
 	content:"\f12c";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f12d";
 }
