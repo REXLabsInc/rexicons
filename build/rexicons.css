@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?aa3da8106c39c674a61883625f84ea23");
+	src:url("rexicons.eot?a2d9bae177590038a30eb8821a7c4fa8");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?aa3da8106c39c674a61883625f84ea23") format("woff"),
-		url("rexicons.ttf?aa3da8106c39c674a61883625f84ea23") format("truetype");
+		url("rexicons.woff?a2d9bae177590038a30eb8821a7c4fa8") format("woff"),
+		url("rexicons.ttf?a2d9bae177590038a30eb8821a7c4fa8") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -167,91 +167,96 @@
 }
 
 
-.rexicon-pause:before {
+.rexicon-pause-empty:before {
 	content:"\f11c";
 }
 
 
-.rexicon-person:before {
+.rexicon-pause:before {
 	content:"\f11d";
 }
 
 
-.rexicon-places:before {
+.rexicon-person:before {
 	content:"\f11e";
 }
 
 
-.rexicon-play-filled:before {
+.rexicon-places:before {
 	content:"\f11f";
 }
 
 
-.rexicon-play:before {
+.rexicon-play-filled:before {
 	content:"\f120";
 }
 
 
-.rexicon-plus-circle:before {
+.rexicon-play:before {
 	content:"\f121";
 }
 
 
-.rexicon-plus:before {
+.rexicon-plus-circle:before {
 	content:"\f122";
 }
 
 
-.rexicon-podcasts:before {
+.rexicon-plus:before {
 	content:"\f123";
 }
 
 
-.rexicon-refresh:before {
+.rexicon-podcasts:before {
 	content:"\f124";
 }
 
 
-.rexicon-search:before {
+.rexicon-refresh:before {
 	content:"\f125";
 }
 
 
-.rexicon-square-loop:before {
+.rexicon-search:before {
 	content:"\f126";
 }
 
 
-.rexicon-television:before {
+.rexicon-square-loop:before {
 	content:"\f127";
 }
 
 
-.rexicon-triangle-exclamation:before {
+.rexicon-television:before {
 	content:"\f128";
 }
 
 
-.rexicon-triangle-right:before {
+.rexicon-triangle-exclamation:before {
 	content:"\f129";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-triangle-right:before {
 	content:"\f12a";
 }
 
 
-.rexicon-twitter:before {
+.rexicon-tvshow:before {
 	content:"\f12b";
 }
 
 
-.rexicon-upload:before {
+.rexicon-twitter:before {
 	content:"\f12c";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-upload:before {
 	content:"\f12d";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f12e";
 }
