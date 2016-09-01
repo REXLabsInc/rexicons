@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="560px" height="563px" viewBox="0 0 560 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>star</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star" fill="#000000">
+            <g id="star-empty" transform="translate(120.000000, 122.000000)">
+                <path d="M320,124.08 L209.44,108.01 L160,7.83 L110.56,108.01 L5.32907052e-14,124.08 L80,202.06 L61.11,312.17 L160,260.18 L258.89,312.17 L240,202.06 L320,124.08 L320,124.08 Z M160,235.47 L90.17,272.18 L103.51,194.42 L47.01,139.35 L125.09,128.01 L160.01,57.26 L194.93,128.01 L273,139.35 L216.5,194.42 L229.84,272.18 L160.01,235.47 L160,235.47 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

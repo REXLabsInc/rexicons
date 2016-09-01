@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?c48d52b3c64a49d3746ee8311e906216");
+	src:url("rexicons.eot?be23e512cadaa4d77518f1456de69385");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?c48d52b3c64a49d3746ee8311e906216") format("woff"),
-		url("rexicons.ttf?c48d52b3c64a49d3746ee8311e906216") format("truetype");
+		url("rexicons.woff?be23e512cadaa4d77518f1456de69385") format("woff"),
+		url("rexicons.ttf?be23e512cadaa4d77518f1456de69385") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }
@@ -232,36 +232,41 @@
 }
 
 
-.rexicon-television:before {
+.rexicon-star:before {
 	content:"\f129";
 }
 
 
-.rexicon-triangle-exclamation:before {
+.rexicon-television:before {
 	content:"\f12a";
 }
 
 
-.rexicon-triangle-right:before {
+.rexicon-triangle-exclamation:before {
 	content:"\f12b";
 }
 
 
-.rexicon-tvshow:before {
+.rexicon-triangle-right:before {
 	content:"\f12c";
 }
 
 
-.rexicon-twitter:before {
+.rexicon-tvshow:before {
 	content:"\f12d";
 }
 
 
-.rexicon-upload:before {
+.rexicon-twitter:before {
 	content:"\f12e";
 }
 
 
-.rexicon-webvideo:before {
+.rexicon-upload:before {
 	content:"\f12f";
+}
+
+
+.rexicon-webvideo:before {
+	content:"\f130";
 }
