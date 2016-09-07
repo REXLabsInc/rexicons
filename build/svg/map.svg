@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="560px" height="563px" viewBox="0 0 560 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 39 (31667) - http://www.bohemiancoding.com/sketch -->
+    <title>map</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map" fill="#000000">
+            <g id="map2" transform="translate(88.000000, 114.000000)">
+                <path d="M252,48 L132,0 L0,48 L0,336 L132,288 L252,336 L384,288 L384,0 L252,48 L252,48 Z M144,30.648 L240,69.048 L240,305.352 L144,266.952 L144,30.648 L144,30.648 Z M24,64.812 L120,29.904 L120,266.832 L24,301.74 L24,64.812 L24,64.812 Z M360,271.188 L264,306.096 L264,69.168 L360,34.26 L360,271.188 L360,271.188 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
