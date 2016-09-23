@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560px" height="563px" viewBox="0 0 560 563" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 40 (33762) - http://www.bohemiancoding.com/sketch -->
+    <title>famous-people</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M210,200 C210,238.66 178.66,270 140,270 C101.34,270 70,238.66 70,200 C70,161.34 101.34,130 140,130 C178.66,130 210,161.34 210,200 Z M265.579,420 C275.129,420 282.159,411.18 279.389,402.42 C262.609,349.16 206.609,310 139.999,310 C73.389,310 17.389,349.16 0.609,402.42 C-2.151,411.18 4.879,420 14.419,420 L265.579,420 Z M330,70 C330,108.66 298.66,140 260,140 C221.34,140 190,108.66 190,70 C190,31.34 221.34,0 260,0 C298.66,0 330,31.34 330,70 Z M399.395,272.417 C382.605,219.157 326.615,179.997 260.005,179.997 C256.005,179.997 252.065,180.157 248.155,180.437 C249.305,186.797 250.005,193.317 250.005,199.997 C250.005,237.197 231.395,270.087 203.045,289.997 L385.575,289.997 C395.125,289.997 402.155,281.177 399.395,272.417 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="famous-people">
+            <g id="people-icon" transform="translate(66.000000, 72.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#000000" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
