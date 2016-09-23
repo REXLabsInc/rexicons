@@ -3,10 +3,10 @@
 
 @font-face {
 	font-family:"rexicons";
-	src:url("rexicons.eot?0ee360ed9b13e8dffcacc5fc78bc3e64");
+	src:url("rexicons.eot?5d65d3ccf660d5e61640547f8a729dea");
 	src:url("rexicons.eot?#iefix") format("embedded-opentype"),
-		url("rexicons.woff?0ee360ed9b13e8dffcacc5fc78bc3e64") format("woff"),
-		url("rexicons.ttf?0ee360ed9b13e8dffcacc5fc78bc3e64") format("truetype");
+		url("rexicons.woff?5d65d3ccf660d5e61640547f8a729dea") format("woff"),
+		url("rexicons.ttf?5d65d3ccf660d5e61640547f8a729dea") format("truetype");
 	font-weight:normal;
 	font-style:normal;
 }

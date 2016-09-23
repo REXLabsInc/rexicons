@@ -12,8 +12,7 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <g id="Clip-2"></g>
-                <polygon id="Fill-1" fill="#000000" mask="url(#mask-2)" points="-50 -50 450 -50 450 450 -50 450"></polygon>
+                <use id="Clip-2" fill="#000000" xlink:href="#path-1"></use>
             </g>
         </g>
     </g>
